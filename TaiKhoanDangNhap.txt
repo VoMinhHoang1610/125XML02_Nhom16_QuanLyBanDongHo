@@ -1,0 +1,16 @@
+--Tài Khoản Đăng Nhập Của Nhân Viên--
+CREATE TABLE NhanVien(
+	maNV varchar(7) PRIMARY KEY,           -- Ma nhan vien (VD: NV00001)
+	tenNV nvarchar(50) NOT NULL,           -- Ten day du nhan vien
+	tenDN varchar(25) UNIQUE NOT NULL,     -- Ten dang nhap (phai duy nhat)
+	matKhau varchar(25) NOT NULL           -- Mat khau dang nhap
+)
+
+-- Them du lieu nhan vien mau
+INSERT INTO NhanVien VALUES
+('NV00001', N'Võ Minh Hoàng', 'hoang1', '12345'),
+('NV00002', N'Trương Thị Kiều Nhi', 'nhi2', '12345'),
+('NV00003', N'Lê Phương Linh', 'linh3', '12345'),
+('NV00004', N'Đăng Khánh Trịnh', 'khanh4', '12345'),
+('NV00005', N'Thanh Loan Vương', 'ThanhLoan70', '12345'),
+('NV00006', N'Trường Phát Vương', 'phattruong02', '12345')

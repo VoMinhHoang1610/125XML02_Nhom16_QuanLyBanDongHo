@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<KhachHangs>
+  <KhachHang>
+    <maKH>KH00000</maKH>
+    <tenKH>Khách vãn lai</tenKH>
+    <SoTienDaDung>0</SoTienDaDung>
+    <namSinh>0</namSinh>
+    <diaChi />
+  </KhachHang>
+  <KhachHang>
+    <maKH>KH00001</maKH>
+    <tenKH>Quốc Tuấn</tenKH>
+    <SoTienDaDung>0</SoTienDaDung>
+    <namSinh>2001</namSinh>
+    <diaChi>Thừa Thiên Huế</diaChi>
+  </KhachHang>
+  <KhachHang>
+    <maKH>KH00002</maKH>
+    <tenKH>Văn Hoàng</tenKH>
+    <SoTienDaDung>1100000</SoTienDaDung>
+    <namSinh>1999</namSinh>
+    <diaChi>Đà Nẵng</diaChi>
+  </KhachHang>
+  <KhachHang>
+    <maKH>KH00003</maKH>
+    <tenKH>Thu Hằng</tenKH>
+    <SoTienDaDung>0</SoTienDaDung>
+    <namSinh>1989</namSinh>
+    <diaChi>Kom Tum</diaChi>
+  </KhachHang>
+  <KhachHang>
+    <maKH>KH00004</maKH>
+    <tenKH>Thu Hiền</tenKH>
+    <SoTienDaDung>0</SoTienDaDung>
+    <namSinh>2002</namSinh>
+    <diaChi>Đắk Lắk</diaChi>
+  </KhachHang>
+  <KhachHang>
+    <maKH>KH00005</maKH>
+    <tenKH>Ngọc Diễm</tenKH>
+    <SoTienDaDung>0</SoTienDaDung>
+    <namSinh>2005</namSinh>
+    <diaChi>Đà Nẵng</diaChi>
+  </KhachHang>
+  <KhachHang>
+    <maKH>KH00006</maKH>
+    <tenKH>Thế Hoàng</tenKH>
+    <SoTienDaDung>0</SoTienDaDung>
+    <namSinh>1992</namSinh>
+    <diaChi>Đà Nẵng</diaChi>
+  </KhachHang>
+  <KhachHang>
+    <maKH>KH00007</maKH>
+    <tenKH>Huỳnh Trí</tenKH>
+    <SoTienDaDung>0</SoTienDaDung>
+    <namSinh>1970</namSinh>
+    <diaChi>Hà Tĩnh</diaChi>
+  </KhachHang>
+  <KhachHang>
+    <maKH>KH00008</maKH>
+    <tenKH>Văn Duy</tenKH>
+    <SoTienDaDung>0</SoTienDaDung>
+    <namSinh>1990</namSinh>
+    <diaChi>Hải Phòng</diaChi>
+  </KhachHang>
+</KhachHangs>

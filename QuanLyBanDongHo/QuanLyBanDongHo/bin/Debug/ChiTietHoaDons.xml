@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<ChiTietHoaDons>
+  <ChiTietHoaDon>
+    <maHD>HD00001</maHD>
+    <maSP>SP00001</maSP>
+    <soLuong>1</soLuong>
+    <DonGia>300000</DonGia>
+  </ChiTietHoaDon>
+  <ChiTietHoaDon>
+    <maHD>HD00002</maHD>
+    <maSP>SP00001</maSP>
+    <soLuong>18</soLuong>
+    <DonGia>210000</DonGia>
+  </ChiTietHoaDon>
+  <ChiTietHoaDon>
+    <maHD>HD00003</maHD>
+    <maSP>SP00001</maSP>
+    <soLuong>2</soLuong>
+    <DonGia>300000</DonGia>
+  </ChiTietHoaDon>
+  <ChiTietHoaDon>
+    <maHD>HD00003</maHD>
+    <maSP>SP00004</maSP>
+    <soLuong>3</soLuong>
+    <DonGia>1122000</DonGia>
+  </ChiTietHoaDon>
+  <ChiTietHoaDon>
+    <maHD>HD00004</maHD>
+    <maSP>SP00002</maSP>
+    <soLuong>2</soLuong>
+    <DonGia>550000</DonGia>
+  </ChiTietHoaDon>
+</ChiTietHoaDons>

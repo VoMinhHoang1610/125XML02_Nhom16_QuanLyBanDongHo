@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<HoaDonNhapXuats>
+  <HoaDonNhapXuat>
+    <maHD>HD00001</maHD>
+    <maNV>NV00001</maNV>
+    <maKH>KH00001</maKH>
+    <LoaiHD>N</LoaiHD>
+    <ngayTao>2025-12-12T04:16:38.6+07:00</ngayTao>
+  </HoaDonNhapXuat>
+  <HoaDonNhapXuat>
+    <maHD>HD00002</maHD>
+    <maNV>NV00002</maNV>
+    <maKH>KH00000</maKH>
+    <LoaiHD>N</LoaiHD>
+    <ngayTao>2025-12-12T04:16:38.6+07:00</ngayTao>
+  </HoaDonNhapXuat>
+  <HoaDonNhapXuat>
+    <maHD>HD00003</maHD>
+    <maNV>NV00002</maNV>
+    <maKH>KH00001</maKH>
+    <LoaiHD>X</LoaiHD>
+    <ngayTao>2025-12-12T04:16:38.6+07:00</ngayTao>
+  </HoaDonNhapXuat>
+  <HoaDonNhapXuat>
+    <maHD>HD00004</maHD>
+    <maNV>NV00001</maNV>
+    <maKH>KH00002</maKH>
+    <LoaiHD>X</LoaiHD>
+  </HoaDonNhapXuat>
+</HoaDonNhapXuats>

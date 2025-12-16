@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NhanViens>
+  <NhanVien>
+    <maNV>NV00001</maNV>
+    <tenNV>Võ Minh Hoàng</tenNV>
+    <tenDN>hoang1</tenDN>
+    <matKhau>12345</matKhau>
+  </NhanVien>
+  <NhanVien>
+    <maNV>NV00002</maNV>
+    <tenNV>Trương Thị Kiều Nhi</tenNV>
+    <tenDN>nhi2</tenDN>
+    <matKhau>12345</matKhau>
+  </NhanVien>
+  <NhanVien>
+    <maNV>NV00003</maNV>
+    <tenNV>Lê Phương Linh</tenNV>
+    <tenDN>linh3</tenDN>
+    <matKhau>12345</matKhau>
+  </NhanVien>
+  <NhanVien>
+    <maNV>NV00004</maNV>
+    <tenNV>Đăng Khánh Trịnh</tenNV>
+    <tenDN>khanh4</tenDN>
+    <matKhau>12345</matKhau>
+  </NhanVien>
+  <NhanVien>
+    <maNV>NV00005</maNV>
+    <tenNV>Thanh Loan Vương</tenNV>
+    <tenDN>ThanhLoan70</tenDN>
+    <matKhau>12345</matKhau>
+  </NhanVien>
+  <NhanVien>
+    <maNV>NV00006</maNV>
+    <tenNV>Trường Phát Vương</tenNV>
+    <tenDN>phattruong02</tenDN>
+    <matKhau>12345</matKhau>
+  </NhanVien>
+</NhanViens>

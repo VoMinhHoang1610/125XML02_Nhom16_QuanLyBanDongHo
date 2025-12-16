@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="yes"?>
+<ChiTietSanPhams>
+  <ChiTietSanPham>
+    <maSP>SP00001</maSP>
+    <tenSP>Casio E300</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Kiểu dáng đẹp</chiTiet>
+    <maDMSP>DM00001</maDMSP>
+    <giaNhap>250000</giaNhap>
+    <gia>300000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00002</maSP>
+    <tenSP>Casio N1001</tenSP>
+    <soLuong>21</soLuong>
+    <chiTiet>Thiết kế mới, sang trọng</chiTiet>
+    <maDMSP>DM00001</maDMSP>
+    <giaNhap>450000</giaNhap>
+    <gia>550000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00003</maSP>
+    <tenSP>Casio N900</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Thiết kế mới, sang trọng</chiTiet>
+    <maDMSP>DM00001</maDMSP>
+    <giaNhap>380000</giaNhap>
+    <gia>480000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00004</maSP>
+    <tenSP>G-Shock 107</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Đảm bảo chính hãng</chiTiet>
+    <maDMSP>DM00001</maDMSP>
+    <giaNhap>950000</giaNhap>
+    <gia>1122000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00005</maSP>
+    <tenSP>Seiko A383</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Chất lượng đi cùng năm tháng</chiTiet>
+    <maDMSP>DM00002</maDMSP>
+    <giaNhap>1050000</giaNhap>
+    <gia>1230000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00006</maSP>
+    <tenSP>Seiko A387</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Đồng hồ cao cấp</chiTiet>
+    <maDMSP>DM00002</maDMSP>
+    <giaNhap>1200000</giaNhap>
+    <gia>1400000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00007</maSP>
+    <tenSP>Hublot Super</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Đảm bảo chính hãng</chiTiet>
+    <maDMSP>DM00002</maDMSP>
+    <giaNhap>3800000</giaNhap>
+    <gia>4500000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00008</maSP>
+    <tenSP>Rolex Luxury</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Đảm bảo chính hãng</chiTiet>
+    <maDMSP>DM00002</maDMSP>
+    <giaNhap>2500000</giaNhap>
+    <gia>3000000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00009</maSP>
+    <tenSP>Apple Watch 4</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Tích hợp nhiều công nghệ hiện đại</chiTiet>
+    <maDMSP>DM00003</maDMSP>
+    <giaNhap>3400000</giaNhap>
+    <gia>4000000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00010</maSP>
+    <tenSP>Huawei Watch 11</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Hiện đại, sang trọng, tinh tế</chiTiet>
+    <maDMSP>DM00003</maDMSP>
+    <giaNhap>1250000</giaNhap>
+    <gia>1500000</gia>
+  </ChiTietSanPham>
+  <ChiTietSanPham>
+    <maSP>SP00011</maSP>
+    <tenSP>Mi band 6</tenSP>
+    <soLuong>23</soLuong>
+    <chiTiet>Đẹp, sang trọng</chiTiet>
+    <maDMSP>DM00003</maDMSP>
+    <giaNhap>620000</giaNhap>
+    <gia>746000</gia>
+  </ChiTietSanPham>
+</ChiTietSanPhams>

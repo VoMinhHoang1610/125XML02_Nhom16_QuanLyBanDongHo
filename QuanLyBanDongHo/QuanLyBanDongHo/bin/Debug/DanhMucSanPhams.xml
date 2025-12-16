@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DanhMucSanPhams>
+  <DanhMucSanPham>
+    <maDM>DM00001</maDM>
+    <tenDM>Đồng hồ điện tử</tenDM>
+  </DanhMucSanPham>
+  <DanhMucSanPham>
+    <maDM>DM00002</maDM>
+    <tenDM>Đồng hồ kim</tenDM>
+  </DanhMucSanPham>
+  <DanhMucSanPham>
+    <maDM>DM00003</maDM>
+    <tenDM>Đồng hồ thông minh</tenDM>
+  </DanhMucSanPham>
+</DanhMucSanPhams>

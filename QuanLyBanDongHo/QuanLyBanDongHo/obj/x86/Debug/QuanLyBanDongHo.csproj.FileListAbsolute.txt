@@ -1,0 +1,33 @@
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\bin\Debug\QuanLyBanDongHo.exe.config
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\bin\Debug\QuanLyBanDongHo.exe
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\bin\Debug\QuanLyBanDongHo.pdb
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.csproj.AssemblyReference.cache
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form1.resources
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form2.resources
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form3.resources
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form4.resources
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form5.resources
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.FormSaoLuuData.resources
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form7.resources
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.FormQLKho.resources
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.csproj.GenerateResource.cache
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.csproj.CoreCompileInputs.cache
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.exe
+D:\10_XML_QUAN\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.pdb
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\bin\Debug\QuanLyBanDongHo.exe.config
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\bin\Debug\QuanLyBanDongHo.exe
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\bin\Debug\QuanLyBanDongHo.pdb
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.csproj.AssemblyReference.cache
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.exe.config
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form1.resources
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form2.resources
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form3.resources
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form4.resources
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form5.resources
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.FormSaoLuuData.resources
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.Form7.resources
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.FormQLKho.resources
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.csproj.GenerateResource.cache
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.csproj.CoreCompileInputs.cache
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.exe
+E:\Nhom16_QLBanDongHo (1)\Nhom16_QLBanDongHo\QuanLyBanDongHo\QuanLyBanDongHo\obj\x86\Debug\QuanLyBanDongHo.pdb
